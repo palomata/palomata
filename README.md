@@ -3,7 +3,7 @@
 <!--
 **palomata/palomata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 😊 Olá!Eu sou a Paloma Tavares 
+- # 😊 Olá!Eu sou a Paloma Tavares 
 - Atualmente trabalho com Front-end
 - Professora no Curso de ADS
 - Em constante Aprendizado na Alura
@@ -12,7 +12,7 @@
 - 🤔 Estudante da Alura
 - 💬 Pensamento: Nada é impossivel
 - 😄 Ela/Ela
--
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
