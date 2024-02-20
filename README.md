@@ -5,8 +5,7 @@
 - Em constante Aprendizado na Alura
 - 🔭 Você é o que seus olhos vêem
 - 👯 Apaixonada pela TI na Educação
-- 🤔 Estudante da Alura
-- 💬 Pensamento: Nada é impossivel
+- 💬  Nada é impossivel
 - 😄 Ela/Ela
 
   <div style="display: inline_block"><br>
