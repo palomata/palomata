@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**palomata/palomata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - # 😊 Olá!Eu sou a Paloma Tavares 
 - Atualmente trabalho com Front-end
