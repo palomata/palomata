@@ -30,10 +30,10 @@ e estou em constante Aprendizado na Alura.
   <a href="https://www.linkedin.com/in/paloma-tavares-052225237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <!-- Git Status -->
-![palomata GitHub stats](https://github-readme-stats.vercel.app/api?username=palomata&show_icons=true&theme=gotham)
+
 <p align="left">
 
- ![Exemplo de GIF](https://github.com/palomata/palomata/raw/main/446220381039201.gif)
+
   </p>
 </div>
 
